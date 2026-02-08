@@ -3,3 +3,8 @@ google-cloud-storage
 pandas
 pyarrow
 fastparquet
+yfinance
+pyarrow
+langchain-openai
+langchain-community
+chromadb
