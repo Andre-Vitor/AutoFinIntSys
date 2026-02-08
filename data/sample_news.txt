@@ -1,0 +1,305 @@
+This AI Stock Could Be One of the Most Valuable in the World by 2027
+Alphabet ramping up CapEx is proof of the demand for AI
+Scroll back up to restore default view.
+James Hires, The Motley Fool
+Sat, February 7, 2026 at 4:09 PM GMT-3 4 min read
+In this article:
+
+    GOOG
+    -2.48%
+    INTC
+    +4.87%
+    NVDA
+    +7.92%
+
+This isn't likely to be a particularly controversial take, but right now it looks like Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL), Google's parent company, is looking like it will emerge as the artificial intelligence (AI) leader over the next couple of years.
+
+The reasons why are pretty straightforward.
+
+Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an "Indispensable Monopoly" providing the critical technology Nvidia and Intel both need. Continue »
+
+First, Google Gemini is gobbling up market share and is likely to overtake ChatGPT soon.
+
+Second, Alphabet is working to separate itself from Nvidia for its hardware needs with its Tensor Processing Unit (TPU) chip.
+
+Third, per its latest results, Alphabet is leveraging its considerably greater resources than the competition.
+
+Let's discuss all three to illustrate why Alphabet is positioning itself to become the AI kingpin by the end of 2027.
+The letters Ai on a stylized digital background.
+Image source: Getty Images.
+Gemini, Google that for me
+
+When OpenAI launched ChatGPT in 2022, it quickly became the leader in the generative AI space simply for lack of competition.
+
+By 2023, competitors like Alphabet, Anthropic, and Meta Platforms had brought their competitors to market, but ChatGPT still held 50% market share in the enterprise large language model (LLM) space.
+
+As reported by Menlo Ventures, in the two years since, ChatGPT fell to 27% market share, Anthropic grew from 12% to 40% market share, and Google's Gemini grew from 7% to 21%.
+
+It's on a trajectory to overtake ChatGPT this year if current trends continue, and then it will be a race to the top between Google and Anthropic. Even then, Google wins.
+Not a one-trick pony
+
+In addition to Gemini, Alphabet has its own proprietary AI hardware, the TPU, developed in partnership with Broadcom.
+
+I won't get into the weeds technically here, but suffice it to say Alphabet's TPU offers a hardware alternative to Nvidia's GPU. And Anthropic is expanding its use of Alphabet's hardware to the tune of 1 million TPUs.
+
+So, Google even wins from Gemini's main competitor because that competitor will be using a lot of Google's hardware.
+Money, money, money
+
+Now, on to the $400 billion elephant in the room. Alphabet's biggest edge is that while neither OpenAI nor Anthropic has turned a profit yet, it is already profitable, and its revenue for 2025 exceeded $400 billion. That's a 15% increase over 2024. Net income was up 32% over 2024 to $132.1 billion.
+
+None of that was particularly surprising. Google has been growing and profitable for a long time. What did surprise people was the fact that the company is going to roughly double its capital expenditures in 2026 to $175 billion to $185 billion.
+
+Building data centers isn't cheap, and neither is maintaining them. But Alphabet has way more money to spend on them than just about anyone else -- certainly more than the start-ups.
+
+And if it can hold near its 59.6% gross margin and 32% net and operating margins, I'm not too worried about more spending. Plus, liquid cash to fuel that spending spree will not be a problem. In Q4 2025, the company grew its operating free cash flow 34% to $52.4 billion.
+
+Alphabet is betting big on AI and clearly aiming to dominate the industry. And it has the money, products, and reach to pull it off, by my reckoning.
+
+Give it a look if you want to go big on AI like Alphabet is, and come 2027, we'll see who sits atop the AI throne.
+Should you buy stock in Alphabet right now?
+
+Before you buy stock in Alphabet, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Alphabet wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $443,299!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,136,601!*
+
+Now, it’s worth noting Stock Advisor’s total average return is 914% — a market-crushing outperformance compared to 195% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+
+See the 10 stocks »
+
+*Stock Advisor returns as of February 7, 2026.
+
+James Hires has positions in Alphabet. The Motley Fool has positions in and recommends Alphabet, Meta Platforms, and Nvidia. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy.
+
+This AI Stock Could Be One of the Most Valuable in the World by 2027 was originally published by The Motley Fool
+
+Nvidia shares rise 8% as Jensen Huang says $660 billion capex buildout is sustainable
+Published Fri, Feb 6 20261:59 PM ESTUpdated Fri, Feb 6 20264:07 PM EST
+thumbnail
+Kif Leswing
+@kifleswing
+Share
+Key Points
+
+    The tech industry’s surging capital expenditures for AI infrastructure are justified, appropriate and sustainable, Nvidia CEO Jensen Huang said on CNBC’s “Halftime Report.”
+    Huang’s comments come after key Nvidia customers Meta, Amazon, Google and Microsoft reported their latest earnings over the past two weeks.
+    “To the extent that people continue to pay for the AI and the AI companies are able to generate a profit from that, they’re going to keep on doubling, doubling, doubling, doubling,” Huang said. 
+
+In this article
+
+    NVDA-0.23 (-0.12%)After Hours
+
+Nvidia CEO Jensen Huang: AI is going to fundamentally change how we compute everything
+watch now
+VIDEO08:34
+Nvidia CEO Jensen Huang: AI is going to fundamentally change how we compute everything
+
+The tech industry’s surging capital expenditures for AI infrastructure are justified, appropriate and sustainable, Nvidia CEO Jensen Huang said Friday on CNBC’s “Halftime Report.”
+
+″The reason for that is because all of these companies’ cash flows are going to start rising,” Huang said.
+
+Nvidia shares closed up nearly 8% on Friday.
+
+Huang’s comments come after key Nvidia customers Meta, Amazon, Google and Microsoft reported their latest earnings over the past two weeks. These companies told their investors that they plan to dramatically increase spending on AI infrastructure. In total, these hyperscalers could spend $660 billion on capital expenditures this year, with much of that spending going toward buying Nvidia’s chips.
+
+Wall Street had a mixed response to the surging spending, sending Meta’s and Alphabet’s stocks up, but punishing Amazon and Microsoft.
+
+Huang said that the “largest infrastructure buildout in human history” is being driven by “sky high” demand for computing power, which AI companies and hyperscalers can use to make more money. He cited specific examples of what Nvidia customers are doing with AI.
+
+Meta is using AI to move from a recommendation system that ran on CPUs to a system that uses generative AI and agents, Huang said. He said Amazon Web Services’ usage of Nvidia chips and AI will affect how the retail giant recommends products, and that Microsoft will use Nvidia-powered AI to improve its enterprise software.
+
+He also praised OpenAI and Anthropic, the two leading artificial intelligence labs, which both use Nvidia chips through cloud providers. Nvidia invested $10 billion in Anthropic last year, and Huang said earlier this week that the chipmaker will invest heavily in OpenAI’s next fundraising round.
+
+“Anthropic is making great money. Open AI is making great money,” Huang said. “If they could have twice as much compute, the revenues would go up four times as much.”
+
+He said that all the graphics processing units that Nvidia has sold in the past — even six-year old chips such as the A100 — are currently being rented, reflecting sustained demand for AI computing power.
+
+“To the extent that people continue to pay for the AI and the AI companies are able to generate a profit from that, they’re going to keep on doubling, doubling, doubling, doubling,” Huang said. 
+
+Is Applied Digital Stock Going to $0?
+Motley Fool - Sat Feb 7, 12:53PM CST
+Key Points
+
+    Applied Digital now has lease agreements worth more than $16 billion over the next 15 years.
+
+    Its heavy reliance on a single customer adds significant risk to an already heavily leveraged business.
+    10 stocks we like better than Applied Digital ›
+
+Applied Digital (NASDAQ: APLD) has turned into one of the market's hottest growth stocks in recent years. After the data center operator pivoted from a focus on providing infrastructure for crypto miners to building infrastructure to support artificial intelligence (AI), its share price has absolutely exploded.
+
+But while the AI-first strategy has created an enormous opportunity, the company is walking a fine line, and any slip-up could turn this growth stock into dead weight in your portfolio.
+
+Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an "Indispensable Monopoly" providing the critical technology Nvidia and Intel both need. Continue »
+Why Applied Digital has soared
+
+Applied Digital builds and operates data centers specifically designed for AI workloads, and leases the facilities to tenants that actually run the servers that power AI. Think of it as a specialized real estate developer and landlord -- it finds the land, builds the facilities, and keeps the lights on and the AC running.
+
+Given the immense power requirements of AI and the complexity of the infrastructure that supports it, there are only a handful of companies capable of doing this at scale. That means Applied Digital is extremely well positioned to take advantage of AI's rapid growth to expand its top line -- and it has.
+
+The company's revenue has exploded from $55 million in 2023 to $264 million over its last four reported quarters. Applied Digital is in the midst of building an immense amount of capacity and now has commitments for up to $16 billion in revenue over the next 15 years.
+The risks investors can't ignore
+
+While there is a lot of opportunity in this niche, there's also a whole lot of risk. At present, the company is operating in the red, losing $125 million over the last 12 months. But that's not necessarily a major concern at this point; there is a clear path to profitability in the coming years.
+
+The real problems are twofold: the immense debt the company is taking on to fuel its growth and its heavy reliance on its largest customer.
+A robot interacting with a holographic screen.
+
+Image source: Getty Images.
+
+Applied Digital had just over $42 million in debt on the books in Q1 2024. As of Nov. 30, the end of its last fiscal quarter, that figure has grown to nearly $2.6 billion. And this isn't cheap debt; the bulk of it is financed at an interest rate of 9.25%.
+
+More concerning to me, however, is Applied Digital's reliance on CoreWeave. The neocloud operator is responsible for the vast majority of Applied Digital's future lease income. While customer concentration to that degree would be a concern for any business, it's especially so when the key customer is itself unprofitable and relying on enormous amounts of debt to fuel its growth -- even more debt than Applied Digital. If at some point, CoreWeave cannot make good on its payments, Applied Digital will be in a tough spot.
+
+Do I think Applied Digital actually will go to $0? Likely not, but it's entirely possible -- and the risk of a steep slide is too great for my comfort.
+Should you buy stock in Applied Digital right now?
+
+Before you buy stock in Applied Digital, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Applied Digital wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $443,299!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,136,601!*
+
+Now, it’s worth noting Stock Advisor’s total average return is 914% — a market-crushing outperformance compared to 195% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+
+See the 10 stocks »
+
+*Stock Advisor returns as of February 7, 2026.
+
+Johnny Rice has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+
+This article contains syndicated content. We have not reviewed, approved, or endorsed the content, and may receive compensation for placement of the content on this site. For more information please view the Barchart Disclosure Policy here.
+
+Chip Stocks Soar as Nvidia CEO Huang Says Demand Is 'Through the Roof'
+
+Amazon and Its Cloud Peers Have Announced Massive AI Spending Plans
+By Kara Greenberg
+Published February 06, 2026
+03:45 PM EST
+Jensen Huang, chief executive officer of Nvidia Corp., speaks during the 2026 CES event in Las Vegas, Nevada, US, on Tuesday, Jan. 6, 2026.
+Nvidia CEO Jensen Huang told CNBC the AI industry could be reaching an "inflection point" as the technology becomes more widely adopted.
+
+Bridget Bennett / Bloomberg / Getty Images
+Key Takeaways
+
+    Nvidia and other semiconductor stocks rallied Friday after Amazon followed cloud peers with a massive AI spending forecast.
+    Nvidia CEO Jensen Huang told CNBC Friday that demand has been "going through the roof."
+
+America's biggest cloud giants are doubling down on their investments in AI hardware. That hasn't helped their shares lately—but chipmakers are getting a lift as their orders keep rolling in.
+
+Shares of AI chip leader Nvidia (NVDA) were up 8% in late trading Friday helping send the Dow Jones Industrial Average above 50,000 points for the first time, while Amazon (AMZN) shares slumped a day after the cloud provider followed other major Nvidia clients with a massive AI spending forecast.
+
+Other semiconductors stocks including Advanced Micro Devices (AMD), Broadcom (AVGO) and Marvell Technology (MRVL) also surged, sending the PHLX Semiconductor Sector Index (SOX) up nearly 6%.
+
+Nvidia CEO Jensen Huang told CNBC in a televised interview Friday that demand has been "going through the roof" as cloud heavyweights lead what he believes could become the “largest infrastructure buildout in human history.”1
+Why This Matters to Investors
+
+As major cloud providers such as Amazon prepare to shoulder huge costs to build out their AI capacity, investor support has flagged amid worries about their returns. However, makers of chips and other hardware for data centers have seen their stocks surge on the commitments.
+
+Investments planned by Amazon, Meta (META), Microsoft (MSFT) and Google parent Alphabet (GOOGL)—all buyers of Nvidia chips—could collectively reach an estimated $650 billion in 2026, after the giants recently updated investors on their financials.2
+
+Huang also said Friday he believe the AI industry could be reaching an "inflection point" as the technology becomes more widely used across different industries.
+Related Education
+Semiconductors and Advancements Investors Should Watch Out for
+Illustration of a semi-conductor close up, with coins floating around.
+Guide to Selecting the Best Artificial Intelligence Stocks
+An illustration of a stock certificate with dollar signs and a gold ribbon surrounded by red star shapes.
+
+With Friday's gains, shares of Nvidia have gotten back to break-even for 2026 after a rough start to the year, and are up more than 40% over the past 12 months.
+Do you have a news tip for Investopedia reporters? Please email us at
+
+Is AMD's 17% Decline a Warning for Nvidia Shareholders Ahead of Feb. 25?
+By Adria Cimino – Feb 7, 2026 at 11:15AM EST
+Follow
+Key Points
+
+    Advanced Micro Devices announced strong revenue growth for the recent quarter -- but the stock fell after the report.
+    AMD and Nvidia are rivals in the billion-dollar AI chip market.
+    Should you buy Nvidia? ›
+
+NASDAQ: NVDA
+Nvidia
+Nvidia Stock Quote
+Market Cap
+$4.5T
+Today's Change
+(8.01%) $13.77
+Current Price
+$185.65
+Price as of February 6, 2026 at 3:58 PM ET
+
+Nvidia and AMD have delivered significant growth during this AI boom.
+
+Many players are participating in the high-growth field of artificial intelligence (AI). But two in particular stand out as they make key tools critical to the development and functioning of AI. I'm talking about chip designers Nvidia (
+NVDA
++8.01%) and Advanced Micro Devices (
+AMD
++8.28%).
+
+Nvidia is the chip leader, offering the world's most powerful graphics processing units (GPUs), and this has resulted in incredible growth over the past few years. AMD has proven it can compete with this market leader as it's launched chips rivaling those of Nvidia and has been announcing soaring demand and revenue. And investors can count on both of these companies for a clear picture of the current and, potentially, future AI market.
+
+AMD was the first to report quarterly earnings during the current earnings season, and the company announced record revenue for the quarter and the full year, as well as strong profitability. Chief Lisa Su even said that, based on the current situation, AMD expects "significant" sales and revenue growth this year.
+
+In spite of these results, though, AMD stock sank 17% in the trading session following the report. Is this stock performance, following a strong earnings report, a warning for Nvidia shareholders ahead of the market giant's Feb. 25 earnings report? Let's find out.
+An investor studies something on a laptop at home.
+
+Image source: Getty Images.
+AMD's soaring earnings
+
+So, first, let's consider AMD's report. As mentioned, overall, the company delivered very positive news. In the quarter, revenue climbed 34% to more than $10 billion, surpassing analysts' estimates. Gross margin expanded to 54% from 51% a year ago, showing greater profitability on sales. And Su said the company is on track to reach its targets, such as increasing revenue at a more than 35% compound annual growth rate over the coming three to five years.
+
+"We are entering a multiyear demand super cycle for high-performance and AI computing," Su said during the earnings call.
+Where to invest $1,000 in 2026?
+
+The S&P is at all-time highs. UBS says it could climb to 7,500 by 2026. Meanwhile, Bill Gates is sounding the alarm, warning many investments could be “dead ends."
+
+So where should investors put their money right now?
+
+That’s the question The Motley Fool’s analysts set out to answer. After weeks of deep research and debate, they just released a brand-new report revealing their 5 highest-conviction stock recs for 2026 and beyond.
+Continue ›
+
+Still, the stock tumbled in the following trading session amid disappointment about the company's first-quarter forecast. Though AMD's prediction for about $9.8 billion in revenue beat expectations of $9.3 billion, some analysts were expecting even more growth, especially considering the great demand for AI chips at the moment.
+
+Now, let's turn to Nvidia. The company is set to report fiscal 2026 fourth-quarter and full-year earnings on Feb. 25 after the stock market closes. The chip giant has a strong track record of surpassing analysts' estimates, and in recent times, Nvidia has spoken of soaring demand for its GPUs. The average analyst estimate calls for revenue to climb 67% year over year to more than $65 billion in the quarter.
+Nvidia Stock Quote
+NASDAQ: NVDA
+Nvidia
+Today's Change
+(8.01%) $13.77
+Current Price
+$185.65
+NVDA
+Key Data Points
+Market Cap
+$4.5T
+Day's Range
+$174.62 - $187.00
+52wk Range
+$86.62 - $212.19
+Volume
+8.9M
+Avg Vol
+183M
+Gross Margin
+70.05%
+Dividend Yield
+0.02%
+TSMC speaks of strong demand
+
+Messages from others in the industry also offer us reason to be optimistic. For example, Taiwan Semiconductor Manufacturing, the manufacturer of Nvidia's chips, spoke of strong demand when it reported earnings a few weeks ago.
+
+So, it's very likely that Nvidia will deliver a good deal of positive news. But will investors, as in the case of AMD, choose to focus on any potential weakness or risk -- even a general concern about AI spending down the road -- and sanction the stock? It's possible. In recent months, investors have worried about the high valuations of AI stocks and the sustainability of these levels. Concerns about a possible AI bubble even surfaced back in November.
+
+All of this means that, even if Nvidia presents a fantastic report, in the short term, there's a possibility its stock performance may not reflect the positive picture. Now here's the good news: Any short-term turbulence doesn't change the long-term AI landscape or Nvidia's prospects in this market over time. And any dip in the stock is actually positive for us as investors, as it offers us the opportunity to get in on the shares at a reasonable price.
+
+So, AMD's drop may be a warning for Nvidia shareholders in the short term, suggesting the stock may face turbulence even if earnings numbers are strong. But that's OK -- Nvidia still is likely to score a win over the long term, and that's great news for investors who hold onto this AI leader.
+
+Should you buy stock in Nvidia right now?
+
+Before you buy stock in Nvidia, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $443,299!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,136,601!*
+
+Now, it’s worth noting Stock Advisor’s total average return is 914% — a market-crushing outperformance compared to 195% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
