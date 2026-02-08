@@ -3,10 +3,16 @@ from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
 import pandas as pd
 from google.cloud import storage
+import yfinance as yf
+import io
+
 
 def scrape_and_upload_to_gcs(tickers):
     # Use the path relative to the Airflow container
-    client = storage.Client.from_service_account_json(r"C:\Users\andre\Documents\_Projects\_Automated Financial Intelligence System\AutoFinIntSys\market-airflow\include\market-intel-project-a079b6a5c47c.json")
+    # client = storage.Client.from_service_account_json(r"C:\Users\andre\Documents\_Projects\_Automated Financial Intelligence System\AutoFinIntSys\market-airflow\include\market-intel-project-a079b6a5c47c.json")
+    # CORRECT: This points to the location INSIDE the container
+    # client = storage.Client.from_service_account_json("/usr/local/airflow/include/market-intel-project-a079b6a5c47c.json")
+    client = storage.Client() 
     bucket = client.get_bucket('market-news-raw-data')
     
     all_news = []
