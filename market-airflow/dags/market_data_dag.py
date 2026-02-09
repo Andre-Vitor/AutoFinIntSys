@@ -9,7 +9,7 @@ import io
 
 def scrape_and_upload_to_gcs(tickers):
     # Use the path relative to the Airflow container
-    # client = storage.Client.from_service_account_json(r"C:\Users\andre\Documents\_Projects\_Automated Financial Intelligence System\AutoFinIntSys\market-airflow\include\market-intel-project-a079b6a5c47c.json")
+    # client = storage.Client.from_service_account_json(r"C:\Users\...\Documents\_Projects\_Automated Financial Intelligence System\AutoFinIntSys\market-airflow\include\market-intel-project-a079b6a5c47c.json")
     # CORRECT: This points to the location INSIDE the container
     # client = storage.Client.from_service_account_json("/usr/local/airflow/include/market-intel-project-a079b6a5c47c.json")
     client = storage.Client() 
@@ -42,9 +42,47 @@ def scrape_and_upload_to_gcs(tickers):
     blob.upload_from_string(parquet_buffer.getvalue(), content_type='application/octet-stream')
     print(f"Uploaded {len(all_news)} items to GCS.")
 
-def update_chroma_from_gcs():
-    # Logic to download from GCS, chunk the text, and add to ChromaDB
-    print("ChromaDB updated with new news!")
+from langchain_community.document_loaders import PySparkDataFrameLoader # Or just use Pandas
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_openai import OpenAIEmbeddings
+from langchain_community.vectorstores import Chroma
+from langchain_core.documents import Document
+
+def gcs_to_chroma():
+    # 1. Download from GCS
+    client = storage.Client()
+    bucket = client.get_bucket('market-news-raw-data')
+    blobs = list(bucket.list_blobs())
+    latest_blob = max(blobs, key=lambda x: x.updated) # Get the newest file
+    print(f"Downloading {latest_blob.name}")
+    
+    # Read parquet into memory
+    buffer = io.BytesIO()
+    latest_blob.download_to_file(buffer)
+    df = pd.read_parquet(buffer)
+
+    # 2. Convert to LangChain Documents
+    documents = []
+    for _, row in df.iterrows():
+        # INDUSTRY STANDARD: Formatting content for better retrieval
+        content = f"Ticker: {row['ticker']}\nTitle: {row['title']}\nSummary: {row['summary']}"
+        doc = Document(
+            page_content=content,
+            metadata={"ticker": row['ticker'], "date": row['publish_date']}
+        )
+        documents.append(doc)
+
+    # 3. Chunking (Industry Standard: 500-1000 characters)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+    chunks = text_splitter.split_documents(documents)
+
+    # 4. Vector Store (Chroma)
+    vectorstore = Chroma.from_documents(
+        documents=chunks,
+        embedding=OpenAIEmbeddings(),
+        persist_directory="./db/chunk_500"
+    )
+    print(f"Success: Indexed {len(chunks)} chunks to Chroma.")
 
 with DAG(
     'market_intelligence_pipeline',
@@ -60,6 +98,6 @@ with DAG(
     # This is the "bridge" that passes the list to your function
     op_kwargs={'tickers': ['NVDA', 'AAPL', 'TSLA', 'MSFT']} 
 )
-    t2 = PythonOperator(task_id='update_vector_store', python_callable=update_chroma_from_gcs)
+    t2 = PythonOperator(task_id='update_vector_store', python_callable=gcs_to_chroma)
 
     t1 >> t2  # Set dependencies

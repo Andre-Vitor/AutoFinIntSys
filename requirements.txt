@@ -9,3 +9,8 @@ tiktoken
 chromadb
 mlflow
 yfinance
+
+google-cloud-storage
+pandas
+fastparquet
+pyarrow
